@@ -36,11 +36,11 @@ I am deeply passionate about continuously expanding my knowledge in web3 and AI,
 <br/><br/>
 
 ## ✨ My Github Streaks and Achievements ✨
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAooWW&show_icons=true&theme=normal)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=AoWangg&show_icons=true&theme=normal)
 
-![John's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AAooWW&show_icons=true&theme=normal)
+![John's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AoWangg&show_icons=true&theme=normal)
 
-![John's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAooWW&layout=compact)
+![John's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AoWangg&layout=compact)
 
 ---
 
