@@ -1,7 +1,7 @@
 ## Hi, I'm Ao Wang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Twitter: AoWangg](https://img.shields.io/twitter/follow/AoWangg?style=social)](https://twitter.com/AoWangg)
-[![GitHub John0Isaac](https://img.shields.io/github/followers/AAooWW?label=follow&style=social)](https://github.com/AAooWW)
+[![GitHub John0Isaac](https://img.shields.io/github/followers/AAooWW?label=follow&style=social)](https://github.com/AoWangg)
 
 
 
