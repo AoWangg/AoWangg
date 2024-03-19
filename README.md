@@ -1,10 +1,5 @@
 ## Hi, I'm Ao Wang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Twitter: AoWangg](https://img.shields.io/twitter/follow/AoWangg?style=social)](https://twitter.com/AoWangg)
-[![GitHub John0Isaac](https://img.shields.io/github/followers/AAooWW?label=follow&style=social)](https://github.com/AoWangg)
-
-
-
 I am deeply passionate about continuously expanding my knowledge in web3 and AI, driven by the desire to both learn new technologies and share my insights with others. 
 
 
