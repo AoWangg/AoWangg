@@ -6,7 +6,7 @@ I am deeply passionate about continuously expanding my knowledge in web3 and AI,
 
 ## A little More about me :
 
-- 🔭 &nbsp; More information in my <a href=https://aowang66.cn/>Website</a>
+- 🔭 &nbsp; More information in my <a href=https://aowang.tech/>Website</a>
 
 - 👯 &nbsp; Looking to collaborate on Web3 & AI 
 - 💬 &nbsp; Ask me about anything I'm happy to help 
