@@ -30,13 +30,6 @@ I am deeply passionate about continuously expanding my knowledge in web3 and AI,
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code" />
 <br/><br/>
 
-## ✨ My Github Streaks and Achievements ✨
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=AoWangg&show_icons=true&theme=normal)
-
-![John's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AoWangg&show_icons=true&theme=normal)
-
-![John's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AoWangg&layout=compact)
-
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
